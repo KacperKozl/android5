@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_details_title">Szczegóły sensora %1$s</string>
+    <string name="sensor_details_message">Producent: %1$s\nMaksymalna zwracana wartość: %2$f</string>
+    <string name="sensor_count">Liczba czujników: %d</string>
+    <string name="show_subtitle">Pokaż liczbę czujników</string>
+    <string name="hide_subtitle">Schowaj</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="light_sensor_label">Czujnik światła\nWartość%f</string>
+    <string name="accelerometr_label">Akcelerometr\nWartości:\nx:%1$f\ny:%2$f\nz:%3$f</string>
+    <string name="location_permission_denied">Odmówiono uprawnień do lokalizacji</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="no_location">Brak lokalizacji</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr"</string>
+    <string name="service_not_available">Serwis niedostępny</string>
+    <string name="no_addresses_found">Nie znaleziono żadnego adresu</string>
+</resources>
